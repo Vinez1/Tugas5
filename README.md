@@ -46,7 +46,7 @@ print("==============================") <br>
 `print("Please enter your address : Perumahan Bumi Pesanggrahan Ciriung")` <br> 
 `address=input()` <br>
 
-`dob=input("19 years old")` <br>
+`dob=input("2020-year")` <br>
 
 `print("\n\n Assalamu'alaikum. ")` <br>
 `print("f\n Let me introduce my self, my name is {Fery Affandi}, but you can call me {Fery}, my NPM {312010018}, I was born in {Bogor} and iam {2020} years old, I am very glad if you want to invite my house in {Perumahan Bumi Pesanggrahan Ciriung}, So don't forget to call me before with the number {087719312053}, \n\n Thanks you very much ")` <br>
@@ -77,7 +77,7 @@ print(1234567) <br>
 `>Fungsi **input()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br> 
  `*(newline)*` <br>
 
-[poto](poto/input.png)<br>
+[foto](foto/input.png)<br>
 
 pada gambar di atas, hasil dari inputan tersebut berwarna *hijau* <br>
 
@@ -109,7 +109,7 @@ Keterangan : <br>
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas
 Hasil dari source code diatas adalah seperti gambar dibawah ini : <br>
 ```
-![salam](poto/salam.png)
+![salam](foto/Salam.png)
 
 `print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")`
 
