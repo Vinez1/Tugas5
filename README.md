@@ -48,7 +48,7 @@ print("==============================") <br>
 
 `dob=input("2020-year")` <br>
 
-`print("\n\n Assalamu'alaikum. ")` <br>
+`print("\n\n Haloo salam sejahtera untuk kita semua. ")` <br>
 `print("f\n Let me introduce my self, my name is {Fery Affandi}, but you can call me {Fery}, my NPM {312010018}, I was born in {Bogor} and iam {2020} years old, I am very glad if you want to invite my house in {Perumahan Bumi Pesanggrahan Ciriung}, So don't forget to call me before with the number {087719312053}, \n\n Thanks you very much ")` <br>
 
 ```
