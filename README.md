@@ -85,31 +85,40 @@ pada gambar di atas, hasil dari inputan tersebut berwarna *hijau* <br>
 
 * Untuk menghitung rumus saya menggunakan variable *DOB* yaitu 2020 (Tahun sekarang) dikurangin dengan Year of Birt, pada source code berikut : <br>
 ``` python 
+
+
+
 dob=input("2020-year") <br>
+
+
+
 ``` <br>
 Pada syntax/source diatas, saya menggunakan variable (dob) dimana untuk menghitung umur (variable **age** pada output), yaitu dengan rumus pada variable *dob=input("2020-year")* <br>
 
 * langkah kali ini saya akan menampilkan output yang diminta oleh dosen.output pertama yang diminta Dosen adalah menampilkan salam, yaitu dengan mengetikkan syntax/source code berikut : <br>
 
 ``` python
-
-`print("\n\n Assalamu'alaikum. ")` <br>
+print("\n\n Assalamu'alaikum. ")` <br>
 ``` <br>
- Keterangan : <br>
-1. Fungsi **\n** pada source code di atas adalah untuk memberi baris baru / enter / *(newline)* <br>
-2. Fungsi print() seperti dijelaskan pada point **Output** diatas
-Hasil dari source code diatas adalah seperti gambar dibawah ini : <br>
-
-![outputsalam](poto/outputsalam.png) <br>
 
 ``` python
 
-print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")
-``` 
+Keterangan : <br>
+1. Fungsi **\n** pada source code di atas adalah untuk memberi baris baru / enter / *(newline)* <br>
+
+2. Fungsi print() seperti dijelaskan pada point **Output** diatas
+Hasil dari source code diatas adalah seperti gambar dibawah ini : <br>
+```
+![salam](poto/salam.png)
+
+`print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")`
+
+
 Keterangan : 
 1. Fungsi huruf **f** pada perintah *print(f"....")* adalah fungsi print atau bisa memudahkan programer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma( , ) atau plus ( + )<br>
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
+
 ![semuaoutput](poto/semuaoutput.png)
 
 <br>
@@ -120,7 +129,12 @@ Hasil dari output tersebut seperti berikut :<br>
 
 Pada halaman ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari operator aritmatika menggunakan bahasa Pemrograman pyhton. Berikut source code yang di berikan oleh dosen : <br>
 
+
+
+
 ``` python
+
+
 
 #penggunaan end
 print('A', end='')
@@ -175,7 +189,10 @@ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris.
 
 Hasil dari source code tersebut seperti gambar dibawah ini :<br>
 
+
 ![outputend](poto/outputend.png)
+
+
 
 * Penggunaan separator
 
@@ -289,7 +306,8 @@ Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai poko
 
  ![Operasi Aritmatika Pangkat](poto/hasilstringg.png)
  
- 2 ** String Format 2** <br>
+ **String Format 2** <br>
+ 
  Pada syntax atau source code string format dua akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri )<br>
  Dengan ketentuan sebagai berikut : <br>
  >secara Default, **.format()** menggunakan rata kiri, angka ke kanan. kita dapat menggunakan opsi opsional <,^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut :<br> 
@@ -303,47 +321,83 @@ Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai poko
 ```
 
 Hasil dari source code contoh diatas akan seperti berikut :<br>
+
 ![hhasilstring](poto/hhasilstring.png)
+
 >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
 
 ``` python
 
-`print('{:<30}{:30}{:>30}'.format('kiri','tengah','kanan'))`
-`print('{:<30}{:30}{:>30}'.format(7,20,34))`
+`print('{:<30}{:30}{:>30}'.format('mobil','ufo','pesawat'))`
+`print('{:<30}{:30}{:>30}'.format(10,20,15))`
 
 ```
 
 Hasil dari source code contoh diatas akan muncul seperti ini :<br>
+
+
 ![sourcecode](poto/sourcecode.png)
+
+
 <br><br>
 
-String Format
+* Konversi Nilai Variable
+Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable
+Tugas <br>
 
-![sstringg](poto/sstringg.png)
+![labb](poto/labb.png)
 
+String Format 2
+
+# Variabel adalah tempat menyimpan data
+
+# menaruh / assignment nilai
+`a = 10`
+`x = 5`
+`panjang = 1000`
+`print(0, 10**0)`
+
+# pemanggilan pertama
+`print("Nilai a =", a)`
+`print("Nilai x =", x)`
+`print("Nilai panjang = ",panjang)`
+
+# penamaan
+`nilai_y = 15 # dengan menggunakan underscore`
+`juta10 = 1000000 # ini boleh`
+`nilaiZ = 17.5 # ini boleh`
+
+# pemanggilan kedua
+`print("Nilai a = ", a)`
+`a = 7`
+`print("Nilai b = ", a)`
+
+# assignment indirect
+`b = a`
+`print("Nilai b = ",b)`
+
+`a=int(input("masukkan nilai a:"))`
+`b=int(input("masukkan nilai b:"))`
+`print("variable a=",a)`
+`print("variable b=",b)`
+`print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))`
+
+# konversi nilai variable
+`a=int(a)`
+`b=int(b)`
+`print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))`
+`print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))`
+
+
+![stringformatt](poto/stringformatt.png)
 
 Untuk hasil dari String Format 2 adalah :<br>
 
-![Output String Format 2](gambar/string2.PNG)
+![hasilvariable](poto/hasilvariable.png)
 
 <br><hr><br>
 
-# Pengertian print <br>
-
-`print` <br>
-
-* print("Tugas ini untuk melengkapi pertemuan 6") <br>
-
-![print](poto/print.png) <br>
-
-* Menampilkan hasil print<br>
-
-![project](poto/project.png) <br>
-
-Contoh syntax variabel : <br>
-
-![hasilvariable](poto/hasilvariable.png)
-
 **TERIMA KASIH** <br>
 
-![kelar](poto/kelar.png)
+
+![youtube](poto/youtube.png)
