@@ -22,34 +22,34 @@ Berikut *source code* nya atau Klik Link berikut ([pertemuan5 python](pertemuan5
 ```python <br>
 
 print("==============================") <br>
-print("= NAMA    : Risky HariAdi     ") <br>
-print("= NIM     : 312010124         ") <br>
+print("= NAMA    : Fery Affandi      ") <br>
+print("= NIM     : 312010018         ") <br>
 print("= KELAS   : TI.20 A.1         ") <br>
 print("==============================") <br>
 
-`print("Please enter your full name : Risky HariAdi")` <br> 
+`print("Please enter your full name : Fery Affandi")` <br> 
 `fullname=input()` <br>
-`print("Please enter nickname : Risky")` <br> 
+`print("Please enter nickname : Fery")` <br> 
 `nickname=input()` <br>
-`print("Please enter your NPM : 312010124")` <br> 
+`print("Please enter your NPM : 312010018")` <br> 
 `npm=input()` <br>
-`print("Please enter place of birth : BEKASI")` <br> 
+`print("Please enter place of birth : Bogor")` <br> 
 `pob=input()` <br>
-`print("Please enter date of birth : 13")` <br> 
+`print("Please enter date of birth : 27")` <br> 
 `date=input()` <br>
-`print("Please enter your month of birth : July")` <br> 
+`print("Please enter your month of birth : February")` <br> 
 `month=input()` <br>
-`print("Please enter year of birth : 2000")` <br> 
+`print("Please enter year of birth : 2001")` <br> 
 `year=input()` <br>
-`print("Please enter your phone number : 085282024179")` <br>
+`print("Please enter your phone number : 087719312053")` <br>
 `phone=input()` <br>
-`print("Please enter your address : Perumahan Graha Bagasasi")` <br> 
+`print("Please enter your address : Perumahan Bumi Pesanggrahan Ciriung")` <br> 
 `address=input()` <br>
 
 `dob=input("2020-year")` <br>
 
 `print("\n\n Assalamu'alaikum. ")` <br>
-`print("f\n Let me introduce my self, my name is {Risky HariAdi}, but you can call me {Risky}, my NPM {312010124}, I was born in {BEKASI} and iam {2020} years old, I am very glad if you want to invite my house in {Perumahan Graha Bagasasi}, So don't forget to call me before with the number {085282024179}, \n\n Thanks you very much ")` <br>
+`print("f\n Let me introduce my self, my name is {Fery Affandi}, but you can call me {Fery}, my NPM {312010018}, I was born in {Bogor} and iam {2020} years old, I am very glad if you want to invite my house in {Perumahan Bumi Pesanggrahan Ciriung}, So don't forget to call me before with the number {087719312053}, \n\n Thanks you very much ")` <br>
 
 ```
 Berikut Penjelasannya :<br>
