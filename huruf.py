@@ -1,0 +1,8 @@
+print('T', end='')
+print('B', end='')
+print('C', end='')
+print()
+print('TY')
+print('X')
+print('Y')
+print('z')

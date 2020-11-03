@@ -190,7 +190,7 @@ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris.
 Hasil dari source code tersebut seperti gambar dibawah ini :<br>
 
 
-![outputend](poto/outputend.png)
+![outputend](foto/outputend1.png)
 
 
 
