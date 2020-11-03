@@ -401,3 +401,8 @@ Untuk hasil dari String Format 2 adalah :<br>
 
 
 ![youtube](poto/youtube.png)
+
+
+contoh ini
+
+![nama](foto/nama.png)
