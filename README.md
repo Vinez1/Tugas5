@@ -264,7 +264,7 @@ String formatting atau pemformatan string memungkinan kita menyuntikkan item ked
 
 * Penggunaan source code yang di berikan oleh dosen seperti berikut : <br>
 
-![stringg](poto/stringg.png) <br>
+![string](foto/string.png) <br>
 
 ``` python
 
@@ -398,11 +398,3 @@ Untuk hasil dari String Format 2 adalah :<br>
 <br><hr><br>
 
 **TERIMA KASIH** <br>
-
-
-![youtube](poto/youtube.png)
-
-
-contoh ini
-
-![nama](foto/nama.png)
