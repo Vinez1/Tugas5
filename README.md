@@ -327,15 +327,15 @@ Hasil dari source code contoh diatas akan seperti berikut :<br>
 
 ``` python
 
-`print('{:<30}{:30}{:>30}'.format('mobil','ufo','pesawat'))`
-`print('{:<30}{:30}{:>30}'.format(10,20,15))`
+`print('{:<30}{:30}{:>30}'.format('kereta','laptop','handphone'))`
+`print('{:<30}{:30}{:>30}'.format(15,25,35))`
 
 ```
 
 Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 
 
-![sourcecode](poto/sourcecode.png)
+![sourcecode](foto/scode.png)
 
 
 <br><br>
