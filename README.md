@@ -63,7 +63,7 @@ Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter
 
 print("Nama saya adalah...") <br>
 print(1234567) <br>
-```
+```DCVAV
 (Seperti gambar dibawah ini) <br> 
 ![outputprint](foto/outputprint.png )
 * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini : <br>
@@ -248,7 +248,7 @@ w,x,y,z=10,15,20,25
 
 * hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
 
-![hasilsyntax](poto/hasilsyntax.png)
+![hasilsyntax](poto/hasilsyntaX.png)
 
 
 
