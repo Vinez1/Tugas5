@@ -388,11 +388,11 @@ String Format 2
 `print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))`
 
 
-![stringformat](poto/stringformat.png)
+![stringformat](foto/stringformat.png)
 
 Untuk hasil dari String Format 2 adalah :<br>
 
-![hasilvariable](poto/hasilvariable.png)
+![hasilvariable](foto/hasilvariable.png)
 
 <br><hr><br>
 
