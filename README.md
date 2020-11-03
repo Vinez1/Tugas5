@@ -248,7 +248,7 @@ w,x,y,z=10,15,20,25
 
 * hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
 
-![hasilsyntax](poto/hasilsyntaX.png)
+![hasilsyntax](foto/hasilsyntaX.png)
 
 
 
